@@ -1,0 +1,6 @@
+name: aGamma
+version: '${project.version}'
+main: pl.allowsik.aGamma
+api-version: 1.18
+authors: [ Allowsik ]
+description: Simple plugin enabling players to turn their gamma up
