@@ -4,3 +4,7 @@ main: pl.allowsik.aGamma
 api-version: 1.18
 authors: [ Allowsik ]
 description: Simple plugin enabling players to turn their gamma up
+commands:
+  gamma:
+    aliases: []
+    description: Command used to change gamma
